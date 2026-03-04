@@ -1,88 +1,148 @@
 {
   "personal": {
-    "name": "Bill Gates",
-    "tagline": "Chair of Gates Foundation, Founder of Breakthrough Energy, Co-founder of Microsoft",
+    "name": "Gino Corrales",
+    "tagline": "Senior Cybersecurity Analyst | IAM Strategist | People Developer at Caterpillar Inc.",
     "picture": "profile.jpeg",
-    "website": "https://www.gatesnotes.com/",
-    "linkedin": "https://www.linkedin.com/in/williamhgates",
-    "email": "bill.gates@gatesfoundation.org",
-    "github": "https://github.com/microsoft",
-    "about": "Dedicated to tackling global health challenges and climate change through innovation and strategic philanthropy. Passionate about leveraging technology to solve humanity's greatest problems.\n\nVoracious reader with a personal blog where I share insights on books and global issues. Avid traveler exploring both developed and developing regions to understand local challenges firsthand."
+    "website": "https://ginocorrales.github.io/",
+    "linkedin": "https://www.linkedin.com/in/ginocorrales",
+    "email": "gino.p.corrales@gmail.com",
+    "github": "https://ginocorrales.github.io/",
+    "about": "Senior Cybersecurity Analyst with a Master's in Management, blending technical expertise in Identity & Access Management (IAM) with a strategic, people-first leadership approach. I specialize in designing secure, scalable IAM solutions that protect enterprise environments while enabling operational efficiency.\n\nPassionate about developing people and building inclusive, high-performing teams, I thrive at the intersection of technology, leadership, and growth. Born from a rich South American cultural background rooted in Peru, I bring a multicultural perspective to everything I do."
   },
   "experience": [
     {
-      "date": "Jan 2000 - Present",
-      "role": "Co-chair",
-      "company": "Gates Foundation",
+      "date": "Jan 2025 - Present",
+      "role": "GIES Student Ambassador",
+      "company": "Gies College of Business - University of Illinois Urbana-Champaign",
       "description": [
-        "Guides the foundation's vision and strategic direction to tackle global challenges in health and poverty.",
-        "Advocates for initiatives in areas like disease eradication, vaccine development, and agricultural innovation.",
-        "Focuses on improving K-12 and postsecondary education in the United States."
+        "Support and mentor current and prospective GIES students by sharing professional experience and academic insights.",
+        "Represent the Gies College of Business community as an advocate for the program."
       ]
     },
     {
-      "date": "Nov 2015 - Present",
-      "role": "Founder",
-      "company": "Breakthrough Energy",
+      "date": "Oct 2023 - Present",
+      "role": "Senior Cybersecurity Analyst",
+      "company": "Caterpillar Inc.",
       "description": [
-        "Leads a network of entities committed to accelerating innovation in clean energy and sustainable technologies.",
-        "Drives investment in and development of solutions to achieve net-zero carbon emissions.",
-        "Works to make clean energy more reliable, affordable, and accessible for everyone."
+        "Lead the Identity Access Management support team, responding to customer issues and strengthening backend processes and services.",
+        "Serve as the IAM Change Manager, facilitating internal IAM CAB meetings and participating in enterprise-wide CAB sessions.",
+        "Develop concepts and architecture for hardware, software, DBMS, or network upgrades based on operational issues, customer needs, and industry trends.",
+        "Provide expert leadership within IAM and counsel on multiple technical specialties to sections and divisions within the I/S Unit."
       ]
     },
     {
-      "date": "Apr 1975 - Present",
-      "role": "Co-founder",
-      "company": "Microsoft",
+      "date": "Jan 2022 - Present",
+      "role": "Sr. IT Analyst - Application Support Team Lead - Cybersecurity - IAM",
+      "company": "Caterpillar Inc.",
       "description": [
-        "Co-founded Microsoft with Paul Allen, building it into the world's largest PC software company.",
-        "Served as the original architect of the company's software, including writing the first BASIC interpreter for the Altair 8800.",
-        "Led the company as CEO until 2000, overseeing the development of pivotal products like MS-DOS and the Microsoft Windows operating system."
+        "Lead the IAM support team and work directly with business partners to coordinate how IAM solutions can drive business success.",
+        "Evaluate new software and hardware technology and develop corporate or departmental standards for their use.",
+        "Provide project leadership, expert advice, and counsel to IT personnel and management on complex technical environments.",
+        "Develop processes and process improvements to provide reliable services across functional lines."
+      ]
+    },
+    {
+      "date": "Apr 2015 - Jan 2022",
+      "role": "IT Analyst III & Application Software Developer - Identity Access Management",
+      "company": "Caterpillar Inc.",
+      "description": [
+        "Served as Quality Team Lead for the corporate identity administration and access request platform IdentityIQ from SailPoint.",
+        "Developed implementation, customization, and deployment of SailPoint IdentityIQ.",
+        "Supported Active Directory, Global Directory, PKI, LDAP, UnboundID, O365, and WorkDay implementation.",
+        "Maintained mission-critical application environments and change management processes."
+      ]
+    },
+    {
+      "date": "Jul 2013 - Mar 2015",
+      "role": "Systems Deployment Engineer",
+      "company": "Caterpillar Inc.",
+      "description": [
+        "Trained as an IT Deployment Business Process Analyst for ERP, Inventory Management, Warehousing, and Manufacturing Systems.",
+        "Obtained SAP Certified Application Associate - Production, Planning & Manufacturing with SAP ERP 6.0 EHP6.",
+        "Led a deployment improvement project with an 8-member team.",
+        "Prepared requirement documents, Fit Gap Analysis, and solutions for process data management."
+      ]
+    },
+    {
+      "date": "Jan 2014 - May 2016",
+      "role": "Teaching Assistant - IT368.17 Enterprise Resource Planning (ERP)",
+      "company": "Illinois State University",
+      "description": [
+        "Supported instruction of ERP course covering managerial and technical aspects of enterprise resource planning.",
+        "Assisted students in understanding SAP-specific modules and business process reengineering concepts."
+      ]
+    },
+    {
+      "date": "Apr 2011 - May 2013",
+      "role": "IT/System - Mobile Developer Intern",
+      "company": "State Farm",
+      "description": [
+        "Completed eight consecutive internships focused on information technology, systems, and mobile technology.",
+        "Led a research team of six interns developing an iPhone application prototype for State Farm Bank.",
+        "Actively participated in the first class of the Spanish Bilingual Internship Program.",
+        "Researched and developed prototypes including a Leap Motion device application."
       ]
     }
   ],
   "education": [
     {
-      "date": "Sep 1973 - Jan 1975",
-      "institution": "Harvard University",
-      "degree": "Studied Applied Mathematics & Computer Science (did not graduate); Awarded Honorary Doctorate in 2007.",
+      "date": "Oct 2023 - May 2025",
+      "institution": "Gies College of Business - University of Illinois Urbana-Champaign",
+      "degree": "Master's Degree, Master in Management",
       "description": [
-        "Enrolled in the pre-law program before shifting focus to computer science and advanced mathematics.",
-        "Left after two years to start Microsoft with Paul Allen."
+        "Blended management education with technical cybersecurity expertise.",
+        "Served as a GIES Student Ambassador, mentoring fellow and future students."
       ]
     },
     {
-      "date": "Jun 1973",
-      "institution": "Lakeside School",
-      "degree": "High School Diploma",
+      "date": "2011 - 2013",
+      "institution": "Illinois State University",
+      "degree": "Bachelor's Degree, Computer Science",
       "description": [
-        "Developed early programming skills on the school's computer.",
-        "Met future Microsoft co-founder Paul Allen."
+        "Focused on software development, systems analysis, and enterprise technology.",
+        "Served as Vice President of IT/AITP/ACM Student Chapter and Vice President of ACM Student Chapter."
+      ]
+    },
+    {
+      "date": "2001 - 2004",
+      "institution": "Universidad Católica de Santa María",
+      "degree": "Systems Engineering",
+      "description": [
+        "Studied systems engineering with a foundation in technical problem-solving and software development."
+      ]
+    },
+    {
+      "date": "1989 - 1999",
+      "institution": "Colegio San Jose - Arequipa, Peru",
+      "degree": "High School Diploma, General Studies",
+      "description": [
+        "Completed secondary education in Arequipa, Peru, laying the foundation for an international academic and professional career."
       ]
     }
   ],
   "certifications": [
-    { "name": "Honorary Doctor of Laws, University of Cambridge (2009)" },
-    { "name": "Honorary Doctor of Medicine, Karolinska Institute (2008)" },
-    { "name": "Honorary Doctor of Laws, Harvard University (2007)" },
-    { "name": "Honorary Doctor of International Relations, Tsinghua University (2007)" },
-    { "name": "Honorary Doctor of Laws, Waseda University (2005)" }
+    { "name": "SAP Certified Application Associate - Production, Planning & Manufacturing with SAP ERP 6.0 EHP6" },
+    { "name": "Introduction to Finance: The Role of Financial Markets" },
+    { "name": "Developing a Winning Marketing Strategy" },
+    { "name": "Global Impact: Cross-Cultural Management" },
+    { "name": "Global Marketing: Cultural Frameworks" }
   ],
   "achievements": [
-    { "name": "Presidential Medal of Freedom (2016)" },
-    { "name": "Lasker-Bloomberg Public Service Award (2013)" },
-    { "name": "Time Person of the Year (2005, with Melinda Gates and Bono)" },
-    { "name": "Knight Commander of the Order of the British Empire (KBE) (2005)" },
-    { "name": "National Medal of Technology and Innovation (1992)" }
+    { "name": "GIES Business School Ambassador - University of Illinois Urbana-Champaign" },
+    { "name": "Vice President of IT/AITP/ACM Student Chapter" },
+    { "name": "Vice President, ACM Student Chapter" },
+    { "name": "Key Speaker - STEM Social 2017" },
+    { "name": "Panelist - Internet of Things - Mobile Development Day 2014" },
+    { "name": "Scouting Vale La Pena Award" }
   ],
   "skills": [
+    { "name": "Identity & Access Management (IAM)" },
+    { "name": "Cybersecurity" },
+    { "name": "Agile Project Management" },
+    { "name": "SailPoint IdentityIQ" },
+    { "name": "SAP ERP" },
     { "name": "Software Development" },
-    { "name": "Business Strategy" },
-    { "name": "Philanthropy" },
-    { "name": "Public Health" },
-    { "name": "Clean Energy" },
-    { "name": "Technology Innovation" },
-    { "name": "Public Speaking" },
-    { "name": "Strategic Leadership" }
+    { "name": "Strategic Leadership" },
+    { "name": "Cross-Cultural Management" }
   ]
 }
